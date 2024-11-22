@@ -21,4 +21,4 @@
   ```bash
     python ospf.py
     ```
-- All information about the project is provided in the documentation.
+- All information about the project is provided in the project report.
